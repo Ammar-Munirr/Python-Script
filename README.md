@@ -9,9 +9,13 @@ This is a simple guessing game where the user tries to guess a random number gen
 3- Enter your guess when prompted. Make sure to enter an integer.
 
 4- Based on your guess, the program will provide feedback:
+    
     If your guess is higher than the secret number, it will display "Upper...".
+    
     If your guess is lower than the secret number, it will display "Lower...".
+    
     If your guess is correct, it will display "Congrats" and the total number of attempts.
+    
     Continue guessing until you find the correct number.
 # Prerequisites
 Python 3.x
