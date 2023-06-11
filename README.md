@@ -3,8 +3,11 @@ This is a simple guessing game where the user tries to guess a random number gen
 
 # Instructions
 1- Run the script in a Python environment.
+
 2- The program will generate a random number between 1 and 100.
+
 3- Enter your guess when prompted. Make sure to enter an integer.
+
 4- Based on your guess, the program will provide feedback:
     If your guess is higher than the secret number, it will display "Upper...".
     If your guess is lower than the secret number, it will display "Lower...".
@@ -15,8 +18,11 @@ Python 3.x
 
 # How to Run the Code
 1- Save the code into a Python file (e.g., guessing_game.py).
+
 2- Open a terminal or command prompt.
+
 3- Navigate to the directory where the Python file is located.
+
 4- Run the following command:
 
 python Guess.py 
